@@ -27,7 +27,7 @@ const Footer = () => {
             </p>
             <span className="flex items-center gap-2 text-white my-3">
               <CiPhone size={25} className="text-blue-500 -top-1 relative" />
-              Phone : +20 1022 095 896
+              Phone : +20 102 377 0344
             </span>
             <span className="flex items-center gap-2 text-white">
               <MdOutlineAlternateEmail
